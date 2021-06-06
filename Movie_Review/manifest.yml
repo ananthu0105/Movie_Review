@@ -1,0 +1,5 @@
+---
+applications:
+ - name: MovieReviews
+   random-route: false
+   memory: 128M
